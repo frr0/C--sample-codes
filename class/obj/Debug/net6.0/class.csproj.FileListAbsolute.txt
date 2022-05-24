@@ -1,0 +1,15 @@
+/home/fra/Projects/Csharp-sample-codes/class/bin/Debug/net6.0/class
+/home/fra/Projects/Csharp-sample-codes/class/bin/Debug/net6.0/class.deps.json
+/home/fra/Projects/Csharp-sample-codes/class/bin/Debug/net6.0/class.runtimeconfig.json
+/home/fra/Projects/Csharp-sample-codes/class/bin/Debug/net6.0/class.dll
+/home/fra/Projects/Csharp-sample-codes/class/bin/Debug/net6.0/ref/class.dll
+/home/fra/Projects/Csharp-sample-codes/class/bin/Debug/net6.0/class.pdb
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/class.csproj.AssemblyReference.cache
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/class.GeneratedMSBuildEditorConfig.editorconfig
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/class.AssemblyInfoInputs.cache
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/class.AssemblyInfo.cs
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/class.csproj.CoreCompileInputs.cache
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/class.dll
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/ref/class.dll
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/class.pdb
+/home/fra/Projects/Csharp-sample-codes/class/obj/Debug/net6.0/class.genruntimeconfig.cache

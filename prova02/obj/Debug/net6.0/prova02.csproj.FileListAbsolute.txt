@@ -1,0 +1,15 @@
+/home/fra/Projects/Csharp-sample-codes/prova02/bin/Debug/net6.0/prova02
+/home/fra/Projects/Csharp-sample-codes/prova02/bin/Debug/net6.0/prova02.deps.json
+/home/fra/Projects/Csharp-sample-codes/prova02/bin/Debug/net6.0/prova02.runtimeconfig.json
+/home/fra/Projects/Csharp-sample-codes/prova02/bin/Debug/net6.0/prova02.dll
+/home/fra/Projects/Csharp-sample-codes/prova02/bin/Debug/net6.0/ref/prova02.dll
+/home/fra/Projects/Csharp-sample-codes/prova02/bin/Debug/net6.0/prova02.pdb
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/prova02.csproj.AssemblyReference.cache
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/prova02.GeneratedMSBuildEditorConfig.editorconfig
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/prova02.AssemblyInfoInputs.cache
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/prova02.AssemblyInfo.cs
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/prova02.csproj.CoreCompileInputs.cache
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/prova02.dll
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/ref/prova02.dll
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/prova02.pdb
+/home/fra/Projects/Csharp-sample-codes/prova02/obj/Debug/net6.0/prova02.genruntimeconfig.cache
