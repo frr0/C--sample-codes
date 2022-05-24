@@ -1,0 +1,15 @@
+/home/fra/Projects/Csharp-sample-codes/bin/Debug/net6.0/Csharp-sample-codes
+/home/fra/Projects/Csharp-sample-codes/bin/Debug/net6.0/Csharp-sample-codes.deps.json
+/home/fra/Projects/Csharp-sample-codes/bin/Debug/net6.0/Csharp-sample-codes.runtimeconfig.json
+/home/fra/Projects/Csharp-sample-codes/bin/Debug/net6.0/Csharp-sample-codes.dll
+/home/fra/Projects/Csharp-sample-codes/bin/Debug/net6.0/ref/Csharp-sample-codes.dll
+/home/fra/Projects/Csharp-sample-codes/bin/Debug/net6.0/Csharp-sample-codes.pdb
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/Csharp-sample-codes.csproj.AssemblyReference.cache
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/Csharp-sample-codes.GeneratedMSBuildEditorConfig.editorconfig
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/Csharp-sample-codes.AssemblyInfoInputs.cache
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/Csharp-sample-codes.AssemblyInfo.cs
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/Csharp-sample-codes.csproj.CoreCompileInputs.cache
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/Csharp-sample-codes.dll
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/ref/Csharp-sample-codes.dll
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/Csharp-sample-codes.pdb
+/home/fra/Projects/Csharp-sample-codes/obj/Debug/net6.0/Csharp-sample-codes.genruntimeconfig.cache
