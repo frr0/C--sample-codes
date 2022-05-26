@@ -1,0 +1,15 @@
+/home/fra/Projects/Csharp-sample-codes/Car/bin/Debug/net6.0/Car
+/home/fra/Projects/Csharp-sample-codes/Car/bin/Debug/net6.0/Car.deps.json
+/home/fra/Projects/Csharp-sample-codes/Car/bin/Debug/net6.0/Car.runtimeconfig.json
+/home/fra/Projects/Csharp-sample-codes/Car/bin/Debug/net6.0/Car.dll
+/home/fra/Projects/Csharp-sample-codes/Car/bin/Debug/net6.0/ref/Car.dll
+/home/fra/Projects/Csharp-sample-codes/Car/bin/Debug/net6.0/Car.pdb
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/Car.csproj.AssemblyReference.cache
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/Car.GeneratedMSBuildEditorConfig.editorconfig
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/Car.AssemblyInfoInputs.cache
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/Car.AssemblyInfo.cs
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/Car.csproj.CoreCompileInputs.cache
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/Car.dll
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/ref/Car.dll
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/Car.pdb
+/home/fra/Projects/Csharp-sample-codes/Car/obj/Debug/net6.0/Car.genruntimeconfig.cache

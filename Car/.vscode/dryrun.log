@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/fra/Projects/Csharp-sample-codes/Car'
+dotnet run
+make: Leaving directory '/home/fra/Projects/Csharp-sample-codes/Car'
+ 

@@ -1,0 +1,15 @@
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/Car_Rewritten.csproj.AssemblyReference.cache
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/Car_Rewritten.GeneratedMSBuildEditorConfig.editorconfig
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/Car_Rewritten.AssemblyInfoInputs.cache
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/Car_Rewritten.AssemblyInfo.cs
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/Car_Rewritten.csproj.CoreCompileInputs.cache
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/bin/Debug/net6.0/Car_Rewritten
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/bin/Debug/net6.0/Car_Rewritten.deps.json
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/bin/Debug/net6.0/Car_Rewritten.runtimeconfig.json
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/bin/Debug/net6.0/Car_Rewritten.dll
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/bin/Debug/net6.0/ref/Car_Rewritten.dll
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/bin/Debug/net6.0/Car_Rewritten.pdb
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/Car_Rewritten.dll
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/ref/Car_Rewritten.dll
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/Car_Rewritten.pdb
+/home/fra/Projects/Csharp-sample-codes/Car_Rewritten/obj/Debug/net6.0/Car_Rewritten.genruntimeconfig.cache
